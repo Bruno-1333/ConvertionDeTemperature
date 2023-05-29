@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ConvertionDeTemperature</string>
+
+    <string-array name="Echelle">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+</resources>
